@@ -1,0 +1,17 @@
+@charset "utf-8";
+@import '../../../bower_components/bootstrap/scss/bootstrap';
+@import '../../../bower_components/font-awesome/scss/font-awesome';
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../../../bower_components/font-awesome/fonts/fontawesome-webfont.eot') format('embedded-opentype'),
+  url('../../../bower_components/font-awesome/fonts/fontawesome-webfont.woff') format('woff'),
+  url('../../../bower_components/font-awesome/fonts/fontawesome-webfont.ttf')  format('truetype'),
+  url('../../../bower_components/font-awesome/fonts/fontawesome-webfont.svg') format('svg');
+}
+
+body{
+  .container{
+    background-color: black;
+  }
+}

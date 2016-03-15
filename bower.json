@@ -1,0 +1,26 @@
+{
+  "name": "Build",
+  "version": "0.0.0",
+  "authors": [
+    "Andre Etienne <andreetienne1987@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.*",
+    "modernizr": "*",
+    "detectizr": "*",
+    "pushy-reloaded": "https://github.com/julianxhokaxhiu/pushy-reloaded.git#*",
+    "font-awesome": "fontawesome#~4.4.0",
+    "Slide-Push-Menus": "https://github.com/callmenick/Slide-Push-Menus.git",
+    "bootstrap-progressbar": "~0.9.0",
+    "parallax.js": "^1.4.2",
+    "tether": "^1.2.0"
+  }
+}

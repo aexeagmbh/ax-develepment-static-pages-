@@ -1,0 +1,12 @@
+{
+  "assets" : {
+    "js" : [
+      "bower_components/tether/dist/js/tether.js",
+      "bower_components/bootstrap/dist/js/bootstrap.js",
+      "templates/Private/js/app.js"
+    ],
+    "css" : [
+      "templates/Private/css/style.css"
+    ]
+  }
+}
